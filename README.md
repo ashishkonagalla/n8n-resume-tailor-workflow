@@ -55,6 +55,3 @@ You can adjust:
 
 ---
 
-## 📸 Example
-
-> _Add your screenshots or diagrams here (e.g., workflow overview, example input/output)._
